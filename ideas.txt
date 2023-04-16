@@ -1,0 +1,9 @@
+1) Visualization of Genetic Algorithm on Regular Polygons, Platonic Solids
+2) 3d Waterfall
+3) Laser bouncing off mirrors
+4) Laser through maze 
+5) Extended Wave Function Collapse
+6) Newton-Raphson Method Visualization 
+7) Fourier Series Visualization 
+8) Monte Carlo Integration Visualization 
+9) Circle Packing
